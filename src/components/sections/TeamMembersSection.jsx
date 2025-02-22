@@ -3,26 +3,26 @@ import React, { useState } from 'react';
 
     const teamMembers = [
       {
-        name: 'Daksh Saini',
+        name: 'Ashish Soni',
         title: 'Founder & Developer',
         image: '/images/founder.jpg',
         intro: 'With a passion for empowering students and young professionals, Implements innovative strategies and developing webiste to connect users with essential resources.',
-        social: {
-          instagram: 'https://www.instagram.com/dakshsainii/',
-          linkedin: 'https://www.linkedin.com/in/dakshsainii/',
-          github: 'https://github.com/iamdakshsainii',
-        },
-      },
-      {
-        name: 'Ashish Soni',
-        title: 'Founder member and Passionate Coder ',
-        intro: 'With a strong understanding of the target audience, he utilizes innovative techniques to attract and engage potential users.',
-        image: '/images/ashish.jpg',
         social: {
           instagram: 'https://www.instagram.com/ashishxsoni/#',
           linkedin: 'https://www.linkedin.com/in/ashishxsoni/',
           github: 'https://github.com/ashishxsoni',
         },
+      },
+      {
+        name: 'Daksh Saini',
+        title: 'Founder member and Passionate Coder ',
+        intro: 'With a strong understanding of the target audience, he utilizes innovative techniques to attract and engage potential users.',
+        image: '/images/daksh.jpg',
+        social: {
+          instagram: 'https://www.instagram.com/dakshsainii/',
+          linkedin: 'https://www.linkedin.com/in/dakshsainii/',
+          github: 'https://github.com/iamdakshsainii',
+        }
       },
       {
         name: 'Saurabh Yadav',
